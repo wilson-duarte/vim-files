@@ -33,7 +33,7 @@ set showmatch 		" highlight matching [{()}]
 " Searching {{{
 set ignorecase 		" Ignore case when searching
 set incsearch           " Search as characters are entered
-set hlsearch            " highlig" Backups {{{ht all matches
+set hlsearch            " highlig all matches
 set smartcase
 " }}}
 
